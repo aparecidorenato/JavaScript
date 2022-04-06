@@ -1,1 +1,1 @@
-window.alert('Minha primeira mensagem!');
+alert('Minha primeira mensagem!')
